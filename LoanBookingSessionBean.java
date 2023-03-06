@@ -35,3 +35,6 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+
+
+adfjlaksdfjasdfakdfl;asjdahdf
